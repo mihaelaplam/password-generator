@@ -5,7 +5,7 @@ A simple web-based password generator that allows users to customize the length 
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Usage](#usage)
+- [Usage and example](#usage)
 - [How to Run](#how-to-run)
 - [License](#license)
 
@@ -27,6 +27,9 @@ To use the password generator:
 2. Click the "Generate Password" button.
 3. Follow the prompts to specify the password criteria.
 4. View the generated password in an alert.
+
+It should look like this: 
+![screenshot](example.png)
 
 ## How to Run
 
